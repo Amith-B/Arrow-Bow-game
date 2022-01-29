@@ -1,14 +1,14 @@
-### How to run
+# How to run
 
 ```
 javac Arrow.java
 java Arrow
 ```
 
-### How it looks
+# How it looks
 
 ![Screenshot](./docs/images/GameWindow.jpg)
 
-### Score distribution
+# Score distribution
 
 ![Screenshot](./docs/images/GameWindow_Score.jpg)
