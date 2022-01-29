@@ -2,6 +2,8 @@
 
 ```
 javac Arrow.java
+```
+```
 java Arrow
 ```
 
